@@ -39,7 +39,7 @@ const Toast = ({ text, type, id }: ToastData) => {
 
   return (
     <div
-      // className={styles.toast}
+      className={styles.toast}
       style={{
         width: 300,
         padding: 10,
