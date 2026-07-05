@@ -1,0 +1,19 @@
+{
+  "name": "template",
+  "version": "0.1.0",
+  "description": "Monorepo for test coverage demonstration web apps",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "template/*"
+  ],
+  "devDependencies": {
+    "husky": "^9.0.11"
+  },
+  "scripts": {
+    "start:template": "yarn workspace vite start",
+    "prepare": "husky",
+    "gen": "node template/generate.js"
+  },
+  "packageManager": "yarn@4.0.0"
+}

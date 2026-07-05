@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "baseUrl": ".",
+    "paths": {
+      "@template/common": ["packages/common/src"],
+      "main": ["template/main/src"],
+      "docs": ["template/docs/src"]
+    }
+  },
+  "references": [
+    {
+      "path": [
+        "./apps/main/tsconfig.json",
+        "./apps/docs/tsconfig.json",
+        "./packages/common/tsconfig.json"
+      ]
+    }
+  ],
+  "include": ["template", "packages"],
+  "exclude": ["node_modules"]
+}
