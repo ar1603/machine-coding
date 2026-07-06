@@ -12,3 +12,4 @@ Machine code repository
 6. VIRTUAL LIST: [Link](apps/6_virtual_list/)
 7. STAR RATING: [Link](apps/7_star_rating/)
 8. SEARCH: [Link](apps/8_search/)
+9. INFINITE SCROLL: [Link](apps/9_infinite_scroll/)
