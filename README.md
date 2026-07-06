@@ -10,3 +10,4 @@ Machine code repository
 4. PAGINATION: [Link](apps/4_pagination/)
 5. CAROUSEL: [Link](apps/5_carousel/)
 6. VIRTUAL LIST: [Link](apps/6_virtual_list/)
+7. STAR RATING: [Link](apps/7_star_rating/)
