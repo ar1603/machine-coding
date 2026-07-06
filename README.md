@@ -11,3 +11,4 @@ Machine code repository
 5. CAROUSEL: [Link](apps/5_carousel/)
 6. VIRTUAL LIST: [Link](apps/6_virtual_list/)
 7. STAR RATING: [Link](apps/7_star_rating/)
+8. SEARCH: [Link](apps/8_search/)
