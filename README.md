@@ -16,4 +16,4 @@ Machine code repository
 10. PROGRESS BAR: [Link](apps/10_progress_bar/)
 11. ACCORDION : [Link](apps/11_accordion/)
 12. STOPWATCH : [Link](apps/12_stopwatch/)
-13. FILE EXPLORER : [Link](apps/11_file_explorer/)
+13. FILE EXPLORER : [Link](apps/13_file_explorer/)
