@@ -15,3 +15,5 @@ Machine code repository
 9. INFINITE SCROLL: [Link](apps/9_infinite_scroll/)
 10. PROGRESS BAR: [Link](apps/10_progress_bar/)
 11. ACCORDION : [Link](apps/11_accordion/)
+12. STOPWATCH : [Link](apps/12_stopwatch/)
+13. FILE EXPLORER : [Link](apps/11_file_explorer/)
